@@ -1,0 +1,6 @@
+logging:
+  level:
+    ROOT: DEBUG
+    org.hibernate: DEBUG
+    com.epam.edp.rmm: DEBUG
+    com.epam.edp.audit: DEBUG
